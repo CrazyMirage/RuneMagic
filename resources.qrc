@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>files/runes.inf</file>
+        <file>runes/fehu.png</file>
+        <file>runes/thurisaz.png</file>
+        <file>runes/uraz.png</file>
+    </qresource>
+</RCC>
